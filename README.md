@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 BE YOUR
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" />
 <p align="right">NOT SOMEONE ELSE</p> 
-<h2 fontWeight="300" align="center">|_______| Hello 👋 and welcome to my Github profile |_______| </h2>
+<h2 fontWeight="300" align="center">|*_______*| Hello 👋 and welcome to my Github profile |*_______*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
