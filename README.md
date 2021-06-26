@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>
   <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
   
 - </p> >Javascript>Bootstrap>React>React-Bootstrap>Redux>Nodejs>Express>MongoDB>
 - 📫 How to reach me: ...
