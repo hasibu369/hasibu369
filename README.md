@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" width="100%" height="200"/>
 -->
-<img src="https://quotefancy.com/media/wallpaper/1600x900/2186679-Rasmus-Lerdorf-Quote-I-actually-hate-programming-but-I-love.jpg" />
+<img src="http://cdn3-www.mandatory.com/assets/uploads/2018/09/JavaScript.png" />
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
