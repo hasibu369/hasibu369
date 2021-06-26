@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">### Hello 👋 and Welcome to my Github ### </h1>
-<h5>I am a Full Stack Web Developer </h5> \n
-- 🔭 I’m currently working on my solo projects.\n
+<h5>I am a Full Stack Web Developer </h5> <br/>
+- 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society.
 - 🤔 I’m looking for help with ...
