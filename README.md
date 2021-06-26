@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" width="100%" height="200"/>
 -->
-<img src="https://scontent-lhr8-2.xx.fbcdn.net/v/t1.18169-9/1653797_860736130613052_8895266900476693903_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=e3f864&_nc_ohc=MRfSWpw-zWMAX8o3abC&_nc_ht=scontent-lhr8-2.xx&oh=e0e5148adcf23ec7c1754edd9ad66f78&oe=60DCCE36" width="100%" height="200"/>
+<img src="https://quotefancy.com/media/wallpaper/1600x900/2186679-Rasmus-Lerdorf-Quote-I-actually-hate-programming-but-I-love.jpg" />
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
