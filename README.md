@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" width="100%" height="200"/>
 -->
-Be Your
+BE YOUR
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" />
-<p align="right">Not Someone Else</p> 
+<p align="right">NOT SOMEONE ELSE</p> 
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
