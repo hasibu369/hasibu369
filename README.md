@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 font-weight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
+<h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 I am a Full Stack Web Developer <br/>
