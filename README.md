@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" width="100%" height="200"/>
 -->
-<img src="https://st.depositphotos.com/1021974/2234/i/380/depositphotos_22344851-stock-photo-binary.jpg" width="100%" height="200"/>
+<img src="https://helloacm.com/wp-content/uploads/2018/07/learn-to-code.jpg" width="100%" height="200"/>
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
