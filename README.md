@@ -2,9 +2,6 @@
 
 <!--
 **HasibDarwish/HasibDarwish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-
-</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">### Hello 👋 and Welcome to my Github ### </h1>. 
+<h1 align="center">### Hello 👋 and Welcome to my Github ### </h1>
 <h5>My name is Hasib and I am a Full Stack Web Developer </h5> 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> •  
+  
 </p>
