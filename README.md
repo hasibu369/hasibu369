@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" width="100%" height="200"/>
 -->
-<img src="https://thumbs.dreamstime.com/b/abstract-dandelion-plants-horizontal-seamless-vector-pattern-background-border-hand-drawn-oval-decorative-shapes-blue-30432493.jpg" width="100%" height="200"/>
+<img src="https://media1.thehungryjpeg.com/thumbs/800_3554309_17t9rn7e151kppkuqvprln61r5yflmof9xsgid60.jpg" width="100%" height="200"/>
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
