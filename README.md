@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://static.vecteezy.com/system/resources/previews/001/181/747/non_2x/overlapping-horizontal-3d-stripes-background-vector.jpg" height="200"/>
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
