@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*|*|*|*|*|*|*|*|*| </h2>
+<h2 align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 I am a Full Stack Web Developer <br/>
@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Typescript. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
 - 💬 Ask me about > <strong>HTML<strong> || <strong>CSS<strong> || <strong>Javascript<strong> || <strong>Bootstrap<strong> || <strong>React<strong>  || <strong>React-Bootstrap<strong> || <strong>Redux<strong> || <strong>Nodejs<strong> ||  <strong>Express<strong> || <strong>MongoDB<strong> <br/>
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></div>...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love helping people and enjoy being useful to the community...
 
 <p align="center">
-  <a href="" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></div>
   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>
   <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
