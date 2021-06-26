@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h2 align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
+- <img class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/49849757?s=400&amp;u=45eb8abb95bfdb6b0a6c6f90a91f308ff635525b&amp;v=4" width="200" height="200" alt="@HasibDarwish">
 - 👨‍🎓 I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
