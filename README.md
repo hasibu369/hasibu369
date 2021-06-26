@@ -27,7 +27,7 @@ BE YOUR
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  I love helping people and enjoy being useful to the community...
 - 📫 How to reach me: <br/><a href="https://www.linkedin.com/in/hasib-darwish-737784211/" target="_blank" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png" /></a>
-- <img src="http://cdn.onlinewebfonts.com/svg/img_336066.svg" width="50" height="50" />
+- <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" width="50" height="50" />
 
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
