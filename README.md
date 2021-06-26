@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Welcome to my Github</h1>. 
+<h6>I am Hasib and I am a Full Stack Web Developer currently studying Strive School</h6> 
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> •  
-  <img src="https://komarev.com/ghpvc/?username=HasibDarwish&style=plastic&label=Repository+Views" alt="HasibDarwish" />
-  [Website](http://www.effort.unaux.com)
 </p>
