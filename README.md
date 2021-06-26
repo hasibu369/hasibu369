@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">|||||||||| Hello 👋 and Welcome to my Github Profile ||||||||||  • <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> •  </h1>
-<h5>I am a Full Stack Web Developer </h5> <br/>
+<h1 align="center">|||||||||| Hello 👋 and Welcome to my Github Profile |||||||||| </h1>
+• <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> • 
+
+- 👨‍🎓 I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
