@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">|||||||||| Hello 👋 and Welcome to my Github Profile |||||||||| </h1>
-- • <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> • 
+
+- <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
