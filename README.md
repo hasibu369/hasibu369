@@ -40,4 +40,4 @@ BE YOUR
    </p> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" alt="Hasib Darwish" /></p>
