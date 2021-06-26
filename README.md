@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/color/50/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
-  <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png">
-  <img src="https://cdn-images-1.medium.com/max/1200/1*Mx3MUKkPENbaIR-vKGeLDw.jpeg" width="50" height="50">
+  <img src="https://devtechnosys.com/insights/wp-content/uploads/2019/06/express-js-logo.png" width="50" height="50"/>
+  <img src="https://cdn-images-1.medium.com/max/1200/1*Mx3MUKkPENbaIR-vKGeLDw.jpeg" width="50" height="50"/>
   
 - </p> >Javascript>Bootstrap>React>React-Bootstrap>Redux>Nodejs>Express>MongoDB>
 - 📫 How to reach me: ...
