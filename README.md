@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 bold="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
+<h2 font-weight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
-- - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
+- <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
