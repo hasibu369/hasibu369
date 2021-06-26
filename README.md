@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/HasibDarwish" alt="profile views"> •  
-  <img src="https://komarev.com/ghpvc/?username=HasibDarwish&style=plastic&label=Repository+View" alt="HasibDarwish" />
+  <img src="https://komarev.com/ghpvc/?username=HasibDarwish&style=plastic&label=Repository+Views" alt="HasibDarwish" />
 </p>
