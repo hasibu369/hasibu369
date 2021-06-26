@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Be Your
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" />
+<p align="right">Not Someone Else</p> 
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
