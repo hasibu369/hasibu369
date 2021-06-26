@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about > <strong>HTML<strong> || <strong>CSS<strong> || <strong>Javascript<strong> || <strong>Bootstrap<strong> || <strong>React<strong>  || <strong>React-Bootstrap<strong> || <strong>Redux<strong> || <strong>Nodejs<strong> ||  <strong>Express<strong> || <strong>MongoDB<strong> <br/>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love helping people and enjoy being useful to the community...
-   <img src="https://komarev.com/ghpvc/?&style=plastic&label= I love helping people and enjoy being useful to the community" alt="Fun" />
+   <img src="https://komarev.com/ghpvc/?username=HasibDarwish&style=plastic&label= I love helping people and enjoy being useful to the community" alt="Fun" />
+   <img src="https://komarev.com/ghpvc/?username=kalavhan&style=plastic&label=Stalker+visits" alt="kalavhan" /
 - 📫 How to reach me: <a href="" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/15/000000/linkedin.png" style="margin-top:'100px';" /></a></div>...
 
 <p align="center">
