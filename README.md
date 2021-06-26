@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 fontWeight="300" align="center">|*| HELLO 👋  AND WELCOME TO MY PROFILE |*| </h2>
 
 - <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
-- 👨‍🎓 I am a Full Stack Web Developer <br/>
+- 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love helping people and enjoy being useful to the community...
 - 📫 How to reach me: <a href="" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/15/000000/linkedin.png" style="margin-top:'100px';" /></a></div>...
-  # 2014, The year of ![](https://cloud.githubusercontent.com/assets/2864371/10368192/cad27ed0-6ddc-11e5-8150-4f9c14ab9602.png)
 
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
