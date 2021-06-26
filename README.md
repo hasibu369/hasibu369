@@ -24,8 +24,8 @@ BE YOUR
 - 🌱 I’m currently learning Typescript. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
 - 💬 Ask me about > HTML || CSS || Javascript || Bootstrap || React || React-Bootstrap || Redux || Nodejs || Express || MongoDB <br/>
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  I love helping people and enjoy being useful to the community...
+- 😄 Phrase: I love honest people and hate the opposite!
+- ⚡ Fun fact: I love helping people because it gives ultra energy!
 - 📫 How to reach me: <br/><a href="https://www.linkedin.com/in/hasib-darwish-737784211/" target="_blank" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png" /></a>
 
 <p align="center">
