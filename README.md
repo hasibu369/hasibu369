@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">### Hello 👋 and Welcome to my Github ### </h1>. 
-<h6>I am Hasib and I am a Full Stack Web Developer currently studying Strive School</h6> 
+<h5>My name is Hasib and I am a Full Stack Web Developer </h5> 
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> •  
