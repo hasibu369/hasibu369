@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> •  
+  <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views"> • 
+  <a href="" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a></div>"
 </p>
