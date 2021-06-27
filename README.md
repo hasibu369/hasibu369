@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-BE YOUR
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" />
-<p align="right">NOT SOMEONE ELSE</p> 
-<h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" height="200px"/></h2>
+<!-- BE YOUR -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" /> -->
+<!-- <p align="right">NOT SOMEONE ELSE</p>  -->
+<h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" height="300px"/></h2>
 
 - 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
