@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <p align="right">NOT SOMEONE ELSE</p>  -->
 <h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" width="100%" height="300px"/></h2>
 
-- 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
+- <p height="100px">👨‍🎓</p> My name is Hasib and I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
