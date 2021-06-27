@@ -18,7 +18,6 @@ BE YOUR
 <p align="right">NOT SOMEONE ELSE</p> 
 <h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" disabled width="100%" height="200px"/></h2>
 
-- <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views">
 - 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently learning Typescript. <br/>
@@ -41,3 +40,4 @@ BE YOUR
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" alt="Hasib Darwish" /></p>
+<img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" height="100px">
