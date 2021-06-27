@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 BE YOUR
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Hasib-logo.svg.png" />
 <p align="right">NOT SOMEONE ELSE</p> 
 <h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" disabled width="100%" height="200px"/></h2>
 
