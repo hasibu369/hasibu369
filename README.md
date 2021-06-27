@@ -40,4 +40,4 @@ BE YOUR
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" alt="Hasib Darwish" /></p>
-<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" height="85px"></p>
+<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" height="90px"></p>
