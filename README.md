@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    </p> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=nevy&show_icons=true" width="75%" alt="Hasib Darwish" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasibDarwish&show_icons=true&theme=dark&locale=en&layout=compact" width="75%" alt="Hasib" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" width="75%" alt="Hasib Darwish" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasibDarwish&show_icons=true&theme=tokyonight&locale=en&layout=compact" width="75%" alt="Hasib" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&show_icons=true&theme=dark&locale=en" width="75%" alt="Hasib" /></p>
 <p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" height="89px"></p>
