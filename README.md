@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" width="75%" alt="Hasib Darwish" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasibDarwish&show_icons=true&theme=tokyonight&locale=en&layout=compact" width="75%" alt="Hasib" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibDarwish&theme=tokyonight" width="50%" alt="Hasib" />
-  <img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" width="50%" height="auto"></p>
-<p align="center"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasibDarwish&show_icons=true&theme=tokyonight&locale=en&layout=compact" width="50%" alt="Hasib" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibDarwish&theme=tokyonight" width="50%" alt="Hasib" />
+</p>
+<p align="center">
+  </p>
+<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" width="50%" height="auto"></p>
