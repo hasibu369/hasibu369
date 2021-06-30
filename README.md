@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibDarwish&theme=tokyonight" width="100%" alt="Hasib" />
   </p>
-<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" width="50%" height="auto"></p>
+<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" width="100%" height="auto"></p>
