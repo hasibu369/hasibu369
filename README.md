@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
 - 🔭 I’m currently working on my solo projects. <br/>
-- 🌱 I’m currently learning Typescript. <br/>
+- 🌱 I’m currently working on my capstone project. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
 - 💬 Ask me about > HTML || CSS || Javascript || Bootstrap || React || React-Bootstrap || Redux || Nodejs || Express || MongoDB <br/>
 - 😄 Phrase: I love honest people and hate the opposite! If you see youself there, then it is not good!
