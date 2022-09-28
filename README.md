@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🔭 I’m currently working on my solo projects. <br/>
 - 🌱 I’m currently working on my capstone project. <br/>
+<p align="center"><img src="https://gpvc.arturio.dev/hasibu369" alt="Profile Views" width="100%" height="auto"></p>
 -->
 <!-- BE YOUR -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" /> -->
@@ -44,4 +45,3 @@ Here are some ideas to get you started:
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibu369&theme=tokyonight" width="100%" alt="Hasib" />
   </p>
-<p align="center"><img src="https://gpvc.arturio.dev/hasibu369" alt="Profile Views" width="100%" height="auto"></p>
