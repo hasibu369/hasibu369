@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on my solo projects. <br/>
+- 🌱 I’m currently working on my capstone project. <br/>
 -->
 <!-- BE YOUR -->
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Self-logo.svg/1200px-Self-logo.svg.png" /> -->
@@ -19,11 +21,9 @@ Here are some ideas to get you started:
 <h2 align="center"><img src="https://img.shields.io/badge/Hello!-👋-brightgreen.svg?style=flat-square" width="100%" height="auto"/></h2>
 
 - 👨‍🎓 My name is Hasib and I am a Full Stack Web Developer <br/>
-- 🔭 I’m currently working on my solo projects. <br/>
-- 🌱 I’m currently working on my capstone project. <br/>
 - 👯 I’m looking to collaborate on any open source project that benefits the community and society. <br/>
 - 💬 Ask me about > HTML || CSS || Javascript || Bootstrap || React || React-Bootstrap || Redux || Nodejs || Express || MongoDB <br/>
-- 😄 Phrase: I love honest people and hate the opposite! If you see youself there, then it is not good!
+- 😄 Phrase: I love honest and kind people!
 - ⚡ Fun fact: I love helping people because it gives me ultra energy and makes me feel being useful to the community!
 - 📫 How to reach me: <br/><a href="https://www.linkedin.com/in/hasib-darwish-737784211/" target="_blank" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png" /></a>
 <p align="center">
