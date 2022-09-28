@@ -38,10 +38,10 @@ Here are some ideas to get you started:
    </p> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HasibDarwish&theme=tokyonight&show_icons=true" width="100%" alt="Hasib Darwish" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=HasibDarwish&show_icons=true&theme=tokyonight&locale=en&layout=compact" width="100%" alt="Hasib" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hasibu369&theme=tokyonight&show_icons=true" width="100%" alt="Hasib" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasibu369&show_icons=true&theme=tokyonight&locale=en&layout=compact" width="100%" alt="Hasib" />
   
 </p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibDarwish&theme=tokyonight" width="100%" alt="Hasib" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibu369&theme=tokyonight" width="100%" alt="Hasib" />
   </p>
-<p align="center"><img src="https://gpvc.arturio.dev/HasibDarwish" alt="Profile Views" width="100%" height="auto"></p>
+<p align="center"><img src="https://gpvc.arturio.dev/hasibu369" alt="Profile Views" width="100%" height="auto"></p>
