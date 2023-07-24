@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about > HTML || CSS || Javascript || Bootstrap || React || React-Bootstrap || Redux || Nodejs || Express || MongoDB <br/>
 - 😄 Phrase: I love honest and kind people!
 - ⚡ Fun fact: I love helping people because it gives me ultra energy and makes me feel being useful to the community!
-- 📫 How to reach me: <br/><a href="https://www.linkedin.com/in/hasib-darwish-737784211/" target="_blank" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png" /></a>
+- 📫 How to reach me: <br/><a href="https://www.linkedin.com/in/hasibu" target="_blank" title="LinkedIn Profile"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png" /></a>
 <p align="center">
   <img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/50/000000/css3.png"/>
